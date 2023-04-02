@@ -1,4 +1,4 @@
 
 # Portofio 
 ## Ignacio Sosa
-[Ver Calculadora IMC](https://nachososa.github.io/)
+[Ver Portfolio](https://nachososa.github.io/)
