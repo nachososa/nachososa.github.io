@@ -1,0 +1,6 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: var(--texto);
+    background-color: var(--fondo);
+    background-color: #c8c8c8;
+}
