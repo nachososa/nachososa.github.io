@@ -1,12 +1,18 @@
 .articulo {
     width: 300px;
-    height: 480px;
+    height: 360px;
     margin: 2em auto;
-    border-radius: 20px;
-    background: linear-gradient(225deg, #fbfbfb, #d4d4d4);
-    box-shadow: -6px 6px 12px #acacac,
-        6px -6px 12px #ffffff;
+    border-radius: 5px;
+    background: #dcdcdc;
+    box-shadow: 5px 5px 10px #5c5c5c,
+        -5px -5px 10px #ffffff;
+}
 
+.articulo:hover {
+    animation: pulse;
+    animation-duration: 700ms;
+    box-shadow: 8px 8px 16px #6e6e6e,
+        -8px -8px 16px #ffffff;
 }
 
 .articulo1 {
@@ -14,7 +20,7 @@
     background-repeat: no-repeat;
     background-position: 0px 0px;
     background-size: auto;
-    min-width: 270px;
+    min-width: 300px;
 }
 
 .articulo2 {
@@ -22,7 +28,8 @@
     background-repeat: no-repeat;
     background-position: 0px 0px;
     background-size: auto;
-    min-width: 270px;
+    min-width: 300px;
+
 }
 
 .articulo3 {
@@ -30,7 +37,7 @@
     background-repeat: no-repeat;
     background-position: 0px 0px;
     background-size: auto;
-    min-width: 270px;
+    min-width: 300px;
 }
 
 .articulo .enlace {
@@ -39,15 +46,6 @@
     text-decoration: none;
     cursor: pointer;
     color: var(--texto);
-}
-
-.articulo .enlace:hover {
-    background-color: rgba(255, 255, 255, .4);
-    transition-property: background-color;
-    transition-duration: 500ms;
-    transition-timing-function: ease;
-    transition-delay: 100ms;
-
 }
 
 .articulo .contenedor {
@@ -61,7 +59,7 @@
 .articulo .contenedor .fila {
     background-color: rgba(0, 0, 0, .8);
     padding: 1em;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .titulo {
@@ -78,6 +76,8 @@
     color: var(--texto-blanco);
     font-size: .8rem;
 }
+
+
 
 @media only screen and (min-width: 900px) {
     .main-container {
