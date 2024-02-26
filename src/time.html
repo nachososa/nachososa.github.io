@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>time</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&display=swap');
+
+        body {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        .clock {
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            background-color: transparent;
+            display: inline-block;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 60px;
+            font-style: normal;
+            font-weight: bold;
+            font-optical-sizing: auto;
+            font-variation-settings: "wdth";
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="clock" class="clock"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            function updateClock() {
+                const currentTime = new Date();
+                const formattedTime = currentTime.toLocaleTimeString();
+                document.getElementById('clock').innerText = formattedTime;
+            }
+            updateClock();
+            const intervalId = setInterval(updateClock, 1000);
+            window.addEventListener('beforeunload', function () {
+                clearInterval(intervalId);
+            });
+        });
+    </script>
+
+</body>
+
+</html>

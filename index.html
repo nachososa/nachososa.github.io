@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>demo</title>
+</head>
+
+<body>
+    <nav id="navMenu">
+        <ul>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('cards')">Cards</a></li>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('currency')">Currency</a></li>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('date')">Date</a></li>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('location')">Location</a></li>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('time')">Time</a></li>
+            <li><a href="javascript:void(0);" onclick="abrirVentana('weather')">Weather</a></li>
+        </ul>
+    </nav>
+
+    <script>
+        function abrirVentana(seccion) {
+            var url = '';
+
+            switch (seccion) {
+
+                case 'cards':
+                    url = '/src/cards.html';
+                    break;
+
+                case 'currency':
+                    url = '/src/currency.html';
+                    break;
+
+                case 'date':
+                    url = '/src/date.html';
+                    break;
+
+                case 'location':
+                    url = '/src/location.html';
+                    break;
+
+                case 'time':
+                    url = '/src/time.html';
+                    break;
+
+                case 'weather':
+                    url = './src/weather.html';
+                    break;
+
+                default:
+                    console.log('Sección no encontrada.');
+                    return;
+            }
+            window.open(url, '_blank');
+        }
+    </script>
+
+</body>
+
+</html>
