@@ -4,35 +4,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>time</title>
+    <title>Time</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&display=swap');
-
         body {
-            margin: 0px;
-            padding: 0px;
+            width: 768px;
+            height: 614px;
+            margin: 0;
+            padding: 0;
             box-sizing: border-box;
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
-        .clock {
-            margin: 0px;
-            padding: 0px;
-            box-sizing: border-box;
-            background-color: transparent;
-            display: inline-block;
+        .video-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
+
+        .clocky {
+            z-index: 1;
+            color: white;
             font-family: 'Open Sans', sans-serif;
-            font-size: 60px;
+            font-size: 90px;
             font-style: normal;
             font-weight: bold;
             font-optical-sizing: auto;
             font-variation-settings: "wdth";
-            color: white;
         }
     </style>
 </head>
 
 <body>
-    <div id="clock" class="clock"></div>
+    <video class="video-background" width="768" height="614" autoplay muted loop>
+        <source src="../src/materiales/videos/space.mp4" type="video/mp4">
+        Tu navegador no soporta el tag de video.
+    </video>
+
+    <div class="clocky" id="clock"></div>
+
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             function updateClock() {
