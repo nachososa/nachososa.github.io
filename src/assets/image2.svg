@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="36" viewBox="0 0 58 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_6548" data-name="Rectángulo 6548" width="58" height="36" rx="5" transform="translate(504 325)" fill="#707070"/>
+    </clipPath>
+    <clipPath id="clip-eur">
+      <rect width="58" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="eur" clip-path="url(#clip-eur)">
+    <g id="Enmascarar_grupo_8" data-name="Enmascarar grupo 8" transform="translate(-504 -325)" clip-path="url(#clip-path)">
+      <g id="Grupo_464" data-name="Grupo 464" transform="translate(499.167 325)">
+        <rect id="Rectángulo_6526" data-name="Rectángulo 6526" width="67.667" height="36" fill="#039"/>
+        <g id="Grupo_451" data-name="Grupo 451" transform="translate(19.93 3.79)">
+          <path id="t" d="M0,0,.011,2.032l1,.005Z" transform="translate(13.904 0) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_645" data-name="Trazado 645" d="M0,2.039.015.007l1-.005Z" transform="translate(14.538 1.938) rotate(162)" fill="#fc0"/>
+          <path id="t-2" data-name="t" d="M0,0V2H1.018Z" transform="translate(15.804 1.406) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_646" data-name="Trazado 646" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 14.188, 2.603)" fill="#fc0"/>
+          <path id="t-3" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(15.093 3.677) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_647" data-name="Trazado 647" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 13.438, 2.498)" fill="#fc0"/>
+          <path id="t-4" data-name="t" d="M0,2V0H1.018Z" transform="translate(14.002 1.406) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_648" data-name="Trazado 648" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 11.989, 1.426)" fill="#fc0"/>
+          <path id="t-5" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(13.347 1.746) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_649" data-name="Trazado 649" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 12.729, 3.682)" fill="#fc0"/>
+          <path id="t-6" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="translate(13.904 24.422) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_650" data-name="Trazado 650" d="M0,2.039.015.007l1-.005Z" transform="translate(14.538 26.36) rotate(162)" fill="#fc0"/>
+          <path id="t-7" data-name="t" d="M0,0V2H1.018Z" transform="translate(15.804 25.828) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_651" data-name="Trazado 651" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 14.188, 27.025)" fill="#fc0"/>
+          <path id="t-8" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(15.093 28.099) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_652" data-name="Trazado 652" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 13.438, 26.92)" fill="#fc0"/>
+          <path id="t-9" data-name="t" d="M0,2V0H1.018Z" transform="translate(14.002 25.828) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_653" data-name="Trazado 653" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 11.989, 25.848)" fill="#fc0"/>
+          <path id="t-10" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(13.347 26.168) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_654" data-name="Trazado 654" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 12.729, 28.104)" fill="#fc0"/>
+          <path id="t-11" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="translate(1.915 12.211) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_655" data-name="Trazado 655" d="M0,2.039.015.007l1-.005Z" transform="translate(2.549 14.149) rotate(162)" fill="#fc0"/>
+          <path id="t-12" data-name="t" d="M0,0V2H1.018Z" transform="translate(3.815 13.617) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_656" data-name="Trazado 656" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 2.198, 14.814)" fill="#fc0"/>
+          <path id="t-13" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(3.103 15.888) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_657" data-name="Trazado 657" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 1.448, 14.709)" fill="#fc0"/>
+          <path id="t-14" data-name="t" d="M0,2V0H1.018Z" transform="translate(2.012 13.617) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_658" data-name="Trazado 658" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 0, 13.637)" fill="#fc0"/>
+          <path id="t-15" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(1.358 13.957) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_659" data-name="Trazado 659" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 0.74, 15.893)" fill="#fc0"/>
+          <path id="t-16" data-name="t" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 6.735, 5.318)" fill="#fc0"/>
+          <path id="Trazado_660" data-name="Trazado 660" d="M.011,2.032,0,0,1,.005Z" transform="translate(7.352 3.382) rotate(18)" fill="#fc0"/>
+          <path id="t-17" data-name="t" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(5.995 3.062) rotate(-54)" fill="#fc0"/>
+          <path id="Trazado_661" data-name="Trazado 661" d="M0,2V0H1.018Z" transform="translate(8.007 3.042) rotate(90)" fill="#fc0"/>
+          <path id="t-18" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="translate(7.909 1.636) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_662" data-name="Trazado 662" d="M0,2.039.015.007l1-.005Z" transform="translate(8.543 3.574) rotate(162)" fill="#fc0"/>
+          <path id="t-19" data-name="t" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 7.443, 4.134)" fill="#fc0"/>
+          <path id="Trazado_663" data-name="Trazado 663" d="M.015,0,0,2.032l1-.005Z" transform="translate(9.098 5.313) rotate(162)" fill="#fc0"/>
+          <path id="t-20" data-name="t" d="M.018,2.011,0,0,1.011.009Z" transform="translate(8.193 4.238) rotate(-126)" fill="#fc0"/>
+          <path id="Trazado_664" data-name="Trazado 664" d="M0,0V2H1.018Z" transform="translate(9.81 3.042) rotate(90)" fill="#fc0"/>
+          <path id="t-21" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(4.71 9.783) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_665" data-name="Trazado 665" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 3.055, 8.603)" fill="#fc0"/>
+          <path id="t-22" data-name="t" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 2.346, 9.787)" fill="#fc0"/>
+          <path id="Trazado_666" data-name="Trazado 666" d="M.011,2.032,0,0,1,.005Z" transform="translate(2.964 7.852) rotate(18)" fill="#fc0"/>
+          <path id="t-23" data-name="t" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(1.606 7.531) rotate(-54)" fill="#fc0"/>
+          <path id="Trazado_667" data-name="Trazado 667" d="M0,2V0H1.018Z" transform="translate(3.619 7.512) rotate(90)" fill="#fc0"/>
+          <path id="t-24" data-name="t" d="M.018,2.011,0,0,1.011.009Z" transform="translate(3.805 8.708) rotate(-126)" fill="#fc0"/>
+          <path id="Trazado_668" data-name="Trazado 668" d="M0,0V2H1.018Z" transform="translate(5.421 7.512) rotate(90)" fill="#fc0"/>
+          <path id="t-25" data-name="t" d="M0,2.039.015.007l1-.005Z" transform="translate(4.155 8.044) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_669" data-name="Trazado 669" d="M0,0,.011,2.032l1,.005Z" transform="translate(3.521 6.105) rotate(18)" fill="#fc0"/>
+          <path id="t-26" data-name="t" d="M0,0V2H1.018Z" transform="translate(5.421 19.723) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_670" data-name="Trazado 670" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 3.805, 20.919)" fill="#fc0"/>
+          <path id="t-27" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(4.71 21.994) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_671" data-name="Trazado 671" d="M.007,2.023.024.012,1.035,0Z" transform="translate(3.055 20.814) rotate(-54)" fill="#fc0"/>
+          <path id="t-28" data-name="t" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 2.346, 21.998)" fill="#fc0"/>
+          <path id="Trazado_672" data-name="Trazado 672" d="M.011,2.032,0,0,1,.005Z" transform="translate(2.964 20.063) rotate(18)" fill="#fc0"/>
+          <path id="t-29" data-name="t" d="M0,2.039.015.007l1-.005Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 4.155, 20.255)" fill="#fc0"/>
+          <path id="Trazado_673" data-name="Trazado 673" d="M0,0,.011,2.032l1,.005Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 3.521, 18.317)" fill="#fc0"/>
+          <path id="t-30" data-name="t" d="M0,2V0H1.018Z" transform="translate(3.619 19.723) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_674" data-name="Trazado 674" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(1.606 19.742) rotate(-54)" fill="#fc0"/>
+          <path id="t-31" data-name="t" d="M0,0V2H1.018Z" transform="translate(9.81 24.192) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_675" data-name="Trazado 675" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 8.193, 25.389)" fill="#fc0"/>
+          <path id="t-32" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(9.098 26.463) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_676" data-name="Trazado 676" d="M.007,2.023.024.012,1.035,0Z" transform="translate(7.443 25.284) rotate(-54)" fill="#fc0"/>
+          <path id="t-33" data-name="t" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 6.735, 26.468)" fill="#fc0"/>
+          <path id="Trazado_677" data-name="Trazado 677" d="M.011,2.032,0,0,1,.005Z" transform="translate(7.352 24.532) rotate(18)" fill="#fc0"/>
+          <path id="t-34" data-name="t" d="M0,2.039.015.007l1-.005Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 8.543, 24.724)" fill="#fc0"/>
+          <path id="Trazado_678" data-name="Trazado 678" d="M0,0,.011,2.032l1,.005Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 7.909, 22.786)" fill="#fc0"/>
+          <path id="t-35" data-name="t" d="M0,2V0H1.018Z" transform="translate(8.007 24.192) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_679" data-name="Trazado 679" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(5.995 24.212) rotate(-54)" fill="#fc0"/>
+          <path id="t-36" data-name="t" d="M0,2.039.015.007l1-.005Z" transform="translate(26.527 14.149) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_680" data-name="Trazado 680" d="M0,0,.011,2.032l1,.005Z" transform="translate(25.893 12.211) rotate(18)" fill="#fc0"/>
+          <path id="t-37" data-name="t" d="M0,2V0H1.018Z" transform="translate(25.991 13.617) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_681" data-name="Trazado 681" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 23.978, 13.637)" fill="#fc0"/>
+          <path id="t-38" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(25.336 13.957) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_682" data-name="Trazado 682" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 24.718, 15.893)" fill="#fc0"/>
+          <path id="t-39" data-name="t" d="M0,0V2H1.018Z" transform="translate(27.793 13.617) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_683" data-name="Trazado 683" d="M.018,2.011,0,0,1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 26.177, 14.814)" fill="#fc0"/>
+          <path id="t-40" data-name="t" d="M.015,0,0,2.032l1-.005Z" transform="translate(27.082 15.888) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_684" data-name="Trazado 684" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 25.427, 14.709)" fill="#fc0"/>
+          <path id="t-41" data-name="t" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 19.432, 4.134)" fill="#fc0"/>
+          <path id="Trazado_685" data-name="Trazado 685" d="M.015,0,0,2.032l1-.005Z" transform="translate(21.087 5.313) rotate(162)" fill="#fc0"/>
+          <path id="t-42" data-name="t" d="M.018,2.011,0,0,1.011.009Z" transform="translate(20.182 4.238) rotate(-126)" fill="#fc0"/>
+          <path id="Trazado_686" data-name="Trazado 686" d="M0,0V2H1.018Z" transform="translate(21.799 3.042) rotate(90)" fill="#fc0"/>
+          <path id="t-43" data-name="t" d="M0,2.039.015.007l1-.005Z" transform="translate(20.532 3.574) rotate(162)" fill="#fc0"/>
+          <path id="Trazado_687" data-name="Trazado 687" d="M0,0,.011,2.032l1,.005Z" transform="translate(19.898 1.636) rotate(18)" fill="#fc0"/>
+          <path id="t-44" data-name="t" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 18.724, 5.318)" fill="#fc0"/>
+          <path id="Trazado_688" data-name="Trazado 688" d="M.011,2.032,0,0,1,.005Z" transform="translate(19.341 3.382) rotate(18)" fill="#fc0"/>
+          <path id="t-45" data-name="t" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(17.984 3.062) rotate(-54)" fill="#fc0"/>
+          <path id="Trazado_689" data-name="Trazado 689" d="M0,2V0H1.018Z" transform="translate(19.996 3.042) rotate(90)" fill="#fc0"/>
+          <path id="t-46" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(23.73 7.852) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_690" data-name="Trazado 690" d="M0,0,.018,2.011l1.011.009Z" transform="matrix(-0.588, -0.809, 0.809, -0.588, 23.112, 9.787)" fill="#fc0"/>
+          <path id="t-47" data-name="t" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 23.82, 8.603)" fill="#fc0"/>
+          <path id="Trazado_691" data-name="Trazado 691" d="M.015,0,0,2.032l1-.005Z" transform="translate(25.475 9.783) rotate(162)" fill="#fc0"/>
+          <path id="t-48" data-name="t" d="M.018,2.011,0,0,1.011.009Z" transform="translate(24.57 8.708) rotate(-126)" fill="#fc0"/>
+          <path id="Trazado_692" data-name="Trazado 692" d="M0,0V2H1.018Z" transform="translate(26.187 7.512) rotate(90)" fill="#fc0"/>
+          <path id="t-49" data-name="t" d="M.024,0,.007,2.011,1.018,2Z" transform="translate(22.372 7.531) rotate(-54)" fill="#fc0"/>
+          <path id="Trazado_693" data-name="Trazado 693" d="M0,2V0H1.018Z" transform="translate(24.384 7.512) rotate(90)" fill="#fc0"/>
+          <path id="t-50" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="translate(24.287 6.105) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_694" data-name="Trazado 694" d="M0,2.039.015.007l1-.005Z" transform="translate(24.921 8.044) rotate(162)" fill="#fc0"/>
+          <path id="t-51" data-name="t" d="M0,2V0H1.018Z" transform="translate(24.384 19.723) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_695" data-name="Trazado 695" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 22.372, 19.742)" fill="#fc0"/>
+          <path id="t-52" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(23.73 20.063) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_696" data-name="Trazado 696" d="M0,0,.018,2.011l1.011.009Z" transform="translate(23.112 21.998) rotate(-126)" fill="#fc0"/>
+          <path id="t-53" data-name="t" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 23.82, 20.814)" fill="#fc0"/>
+          <path id="Trazado_697" data-name="Trazado 697" d="M.015,0,0,2.032l1-.005Z" transform="translate(25.475 21.994) rotate(162)" fill="#fc0"/>
+          <path id="t-54" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 24.287, 18.317)" fill="#fc0"/>
+          <path id="Trazado_698" data-name="Trazado 698" d="M0,2.039.015.007l1-.005Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 24.921, 20.255)" fill="#fc0"/>
+          <path id="t-55" data-name="t" d="M0,0V2H1.018Z" transform="translate(26.187 19.723) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_699" data-name="Trazado 699" d="M.018,2.011,0,0,1.011.009Z" transform="translate(24.57 20.919) rotate(-126)" fill="#fc0"/>
+          <path id="t-56" data-name="t" d="M0,2V0H1.018Z" transform="translate(19.996 24.192) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_700" data-name="Trazado 700" d="M.024,0,.007,2.011,1.018,2Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 17.984, 24.212)" fill="#fc0"/>
+          <path id="t-57" data-name="t" d="M.011,2.032,0,0,1,.005Z" transform="translate(19.341 24.532) rotate(18)" fill="#fc0"/>
+          <path id="Trazado_701" data-name="Trazado 701" d="M0,0,.018,2.011l1.011.009Z" transform="translate(18.724 26.468) rotate(-126)" fill="#fc0"/>
+          <path id="t-58" data-name="t" d="M.007,2.023.024.012,1.035,0Z" transform="matrix(0.588, -0.809, 0.809, 0.588, 19.432, 25.284)" fill="#fc0"/>
+          <path id="Trazado_702" data-name="Trazado 702" d="M.015,0,0,2.032l1-.005Z" transform="translate(21.087 26.463) rotate(162)" fill="#fc0"/>
+          <path id="t-59" data-name="t" d="M0,0,.011,2.032l1,.005Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 19.898, 22.786)" fill="#fc0"/>
+          <path id="Trazado_703" data-name="Trazado 703" d="M0,2.039.015.007l1-.005Z" transform="matrix(-0.951, 0.309, -0.309, -0.951, 20.532, 24.724)" fill="#fc0"/>
+          <path id="t-60" data-name="t" d="M0,0V2H1.018Z" transform="translate(21.799 24.192) rotate(90)" fill="#fc0"/>
+          <path id="Trazado_704" data-name="Trazado 704" d="M.018,2.011,0,0,1.011.009Z" transform="translate(20.182 25.389) rotate(-126)" fill="#fc0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
