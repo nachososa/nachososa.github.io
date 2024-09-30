@@ -115,7 +115,7 @@ const App = () => {
         sx={{
           width: '640px',
           height: '720px',
-          padding: 0,
+          paddingBottom: '21px',
         }}
       >
         <Grid container sx={{ height: '100%' }}>
