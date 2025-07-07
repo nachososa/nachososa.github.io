@@ -1,0 +1,39 @@
+# locales
+/assets
+
+# node_modules: dependencias del proyecto
+node_modules/
+
+# Salida de producción de Vite
+dist/
+
+# Archivos temporales de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos de lock según el gestor de paquetes (incluí el que uses)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Archivos del entorno local
+.env
+.env.local
+.env.*.local
+
+# Salida de pruebas o cobertura
+coverage/
+
+# Vite cache (opcional)
+.vite/
+
+# Otros posibles caches
+.cache/
